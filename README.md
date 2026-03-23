@@ -1,41 +1,25 @@
 # EXP-1
-## EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
-## AIM
-<br>
+EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
+AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
-<br>
 b.   To verify Kirchhoff’s Current Law (KCL) for the given circuits.
-<br>
- 
-## APPARATUS REQUIRED:
- <br>
-S.No.	Components	Range	Quantity
-<br>
-1	Resistor	1kΩ	3
-<br>
-2	Voltmeter (DC)	0-30V	3
-<br>
-3	Ammeter (DC)	(0-200)mA	3
-<br>
-4	Bread Board		1
-<br>
-5	Regulated Power Supply	(0-30)V	1
-  <br>
-6	Connecting wires		As required
-<br>
- 
-## THEORY:
-<br>
-KVL: 
-<br>
-Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
-<br>
-KCL:
-<br>
-Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
-<br>
 
-## PROCEDURE:
+APPARATUS REQUIRED:
+S.No.	Components	Range	Quantity
+1	Resistor	1kΩ	3
+2	Voltmeter (DC)	0-30V	3
+3	Ammeter (DC)	(0-200)mA	3
+4	Bread Board		1
+5	Regulated Power Supply	(0-30)V	1
+6	Connecting wires		As required
+
+THEORY:
+KVL: Kirchhoff's voltage law states that the sum of the voltage differences around any closed loop in a circuit must be zero. A loop in a circuit is any path that ends at the same point at which it starts.
+KCL:
+Kirchhoff's Current Law (KCL) Kirchhoff's Current Law states that the algebraic sum of the currents entering and leaving a node is equal to zero. By convention, currents entering the node are positive, and those leaving a node are negative
+
+
+PROCEDURE:
 a.   KVL:
 1.   Connect as per the circuit diagram.
 2.   Check if the RPS voltage is set to zero voltage.
@@ -54,35 +38,45 @@ b.  KCL:
 5.   Set the input voltage to a value between 0V to 30V.
 6.   Record the voltage values shown in the ammeter connected to each resistor.
 7.   Take readings for different values of input voltage and tabulate them. 
+CIRCUIT DIAGRAM:
 
-## CIRCUIT DIAGRAM:
-a.   KVL:
- <img width="1920" height="1200" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/04991427-0ad2-4262-9ac2-387904295d5a" />
+CIRCUIT DIAGRAM:
 
-b.  KCL:
-<img width="1920" height="1200" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/5a03b0a9-cc19-4749-b2e8-61616462ea07" /> 
-
-
-## Calculation:
-![WhatsApp Image 2025-09-12 at 13 51 53_2d10f53e](https://github.com/user-attachments/assets/7ab5ae2e-f24a-43bb-a2a6-e4adc514da3e)
-
-a.   KVL and KCL:
-![WhatsApp Image 2025-09-12 at 13 51 54_5cc04b05](https://github.com/user-attachments/assets/0dc46ce5-18ac-4a88-8935-1c6f4bdb79b0)
-
-![WhatsApp Image 2025-09-12 at 13 51 55_f7cf7d6f](https://github.com/user-attachments/assets/a21bb949-064c-42e0-bd2b-c2010da19e64)
-
-
-## Tabulation:
 
 a.   KVL:
 
- ![WhatsApp Image 2025-09-12 at 14 06 31_99f8a960](https://github.com/user-attachments/assets/9dd38a45-66dd-4cee-8d54-58ccf60a34d1)
+ ![17612054654407415657339971641041](https://github.com/user-attachments/assets/403cc5a3-e920-48c2-aa75-390289f17b3b)
+
 
 
 b.  KCL:
-![WhatsApp Image 2025-09-12 at 14 06 04_c1e3fc55](https://github.com/user-attachments/assets/09aa56cc-bf2f-4cc5-ac6f-5f0b9e92d20d)
+ ![17612055092792182047928084127150](https://github.com/user-attachments/assets/1fe27d02-59e7-4175-9d72-800d214e29cd)
 
 
-## RESULT:
+Calculation:
+
+a.   KVL:
+ 
+![17612055179351285959423623750566](https://github.com/user-attachments/assets/4cd27874-5b74-492f-9e25-7cb418a006e8)
+
+
+b.  KCL:
+
+![17612055275144429057963647912097](https://github.com/user-attachments/assets/9d145858-0a5c-4187-a377-aa8592569727)
+
+
+Tabulation:
+
+a.   KVL:
+
+![17612055359056841737765455482774](https://github.com/user-attachments/assets/25682b2e-50b0-4d6d-b021-69beee534f6d)
+
+
+b.  KCL:
+
+![17612055440654872659640642305517](https://github.com/user-attachments/assets/1f82e801-0eb0-4097-b510-fea756186d57)
+
+
+RESULT:
 
 Thus, for the given circuit, Kirchhoff’s Laws, (a) KVL and (b) KCL are proved.
